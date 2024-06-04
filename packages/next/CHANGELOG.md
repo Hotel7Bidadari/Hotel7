@@ -1,5 +1,11 @@
 # @vercel/next
 
+## 4.2.16
+
+### Patch Changes
+
+- ensure unmatched rsc rewrites are routed to correct handler ([#11688](https://github.com/vercel/vercel/pull/11688))
+
 ## 4.2.15
 
 ### Patch Changes
